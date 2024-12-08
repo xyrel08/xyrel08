@@ -7,6 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/xyrel-genio-5b5143283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/xyrel-genio-5b5143283/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/xyrel.genio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/xyrel.genio" height="30" width="40" /></a>
+<a href="mailto:xyrelgenio08@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="mailto:xyrelgenio08@gmail.com" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
